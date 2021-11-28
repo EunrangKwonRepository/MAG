@@ -1,8 +1,8 @@
-# MAG
+# MAG(Microsoft Academic Graph) project
 This repository is code for MAG data processing and analysis in:
 
 Eunrang Kwon, Jinhyuk Yun, Jeong-han Kang. "The effect of the COVID-19 pandemic on gendered research productivity and its correlates
-"(We will be add a arxiv link)
+"(We will add a arxiv link)
 
 # Prerequisites
 - Python 3.8 (> 3.8.5)
@@ -12,12 +12,12 @@ Eunrang Kwon, Jinhyuk Yun, Jeong-han Kang. "The effect of the COVID-19 pandemic 
 - Jupyter Notebook (> 5.0.0)
 
 # Data
-Bibliographic metadata of academic papers were retrieved from the Microsoft Academic Graph (https://academic.microsoft.com/; https://aka.ms/msracad) on Azure Storage (https://azure.microsoft.com/) licensed under ODC-BY. 
+Microsoft Academic Graph: https://academic.microsoft.com/; https://aka.ms/msracad)
 
-The gender disambiguation data set is owned by Demografix ApS and can be accessed from their website by means of a subscription (https://genderize.io/). 
+The gender disambiguation data: https://genderize.io/
 
 Additional socio-economic data sets
-- epjds-professional-gender-gaps for gender equality: (https://github.com/fverkroost/epjds-professional-gender-gaps) 
+- epjds-professional-gender-gaps for gender equality: https://github.com/fverkroost/epjds-professional-gender-gaps
 - CSSE for COVID-19 statistics: https://github.com/CSSEGISandData/COVID-19
 - COVID-19 Community Mobility Reports for mobility : https://www.google.com/covid19/mobility
 
